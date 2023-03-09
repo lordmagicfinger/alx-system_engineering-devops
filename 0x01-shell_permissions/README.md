@@ -9,3 +9,6 @@
 8-James_Bond gives permission to others but no permission to the onwer and groups
 9-John_Doe sets permission for the script
 10-mirror_permissions References the file olleh and sets the same permissions for the file hello
+11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-directory_permissions Create a script that creates a directory called my_dir with permissions 751 in the working directory
+13-change_group Write a script that changes the group owner to school for the file hello
