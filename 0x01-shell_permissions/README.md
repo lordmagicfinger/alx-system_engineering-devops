@@ -8,3 +8,4 @@
 7-everybody adds execution permission to the owner, the group owner and the other users, to the file hello
 8-James_Bond gives permission to others but no permission to the onwer and groups
 9-John_Doe sets permission for the script
+10-mirror_permissions References the file olleh and sets the same permissions for the file hello
