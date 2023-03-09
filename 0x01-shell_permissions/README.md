@@ -1,2 +1,3 @@
 0-iam_betty changes user to betty
 1-who_am_i Prints out the name of the user
+2-groups  shows the list of the groups that the current user is part of
